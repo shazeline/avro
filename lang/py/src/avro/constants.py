@@ -18,9 +18,9 @@
 Contains Constants for Python Avro
 """
 
-DECIMAL = "decimal";
-DATE = "date";
-TIME_MILLIS = "time-millis";
-TIME_MICROS = "time-micros";
-TIMESTAMP_MILLIS = "timestamp-millis";
-TIMESTAMP_MICROS = "timestamp-micros";
+DECIMAL = "decimal"
+DATE = "date"
+TIME_MILLIS = "time-millis"
+TIME_MICROS = "time-micros"
+TIMESTAMP_MILLIS = "timestamp-millis"
+TIMESTAMP_MICROS = "timestamp-micros"
